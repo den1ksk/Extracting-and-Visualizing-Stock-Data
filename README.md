@@ -1,4 +1,4 @@
-# ExtractingaAndVisualizingStockData
+# Extracting And Visualizing Stock Data
 ## IBM Practical Work
 ---
 ### Description
